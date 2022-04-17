@@ -1,0 +1,4 @@
+# discordbot
+
+Discordチャンネル内に貼られたメッセージのURLを展開してプレビューを表示するDiscord Botです。
+使用にはDiscord BOTのアカウント作成が必要。
